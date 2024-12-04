@@ -13,8 +13,8 @@ My journey with Google has led me to develop a passion for cybersecurity, and I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/nouhoum-ibrahim-traore/DetectionLab/tree/main">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/nouhoum-ibrahim-traore/DetectionLab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -62,7 +62,7 @@ My journey with Google has led me to develop a passion for cybersecurity, and I 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/nouhoum-ibrahim-traore/DetectionLab/tree/main">Detection Lab</a>
 - SOC Automation Project
 - [Active Directory Home Lab](https://github.com/nouhoum-ibrahim-traore/ActiveDirectoryLab)
 - [Hello World !](https://github.com/nouhoum-ibrahim-traore/ActiveDirectoryLab)
