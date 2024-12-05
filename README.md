@@ -43,6 +43,12 @@ My journey with Google has led me to develop a passion for cybersecurity, and I 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Playbooks
+<div>
+    <img src="https://img.shields.io/badge/-Incident_Response_Playbook-FF4500?style=for-the-badge&logo=book&logoColor=white" />
+   
+</div>
+
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
